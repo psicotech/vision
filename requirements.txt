@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+mysqlclient
+python-dotenv  # Para gestionar variables de entorno
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
